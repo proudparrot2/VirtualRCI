@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to the VirtualRCI builders portal!
 
-You can use the [editor on GitHub](https://github.com/proudparrot2/VirtualRCI/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is the official builders portal for VirtualRCI, and you can find anything you need to help you build. If you need to submit a question, please visit our [Discord Server!] (https://discord.gg/XU7efDY)
 
 ### Markdown
 
